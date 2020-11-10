@@ -1,0 +1,80 @@
+body {
+    background-color: yellow;
+}
+
+div {
+    text-align: center;
+    background: #000000;
+    padding-top: 50px;
+    border: 100%;
+}
+
+div img{
+    width: 400px;
+}
+
+div h1 {
+    color: #FFFFFF;
+    padding: 45px 0;
+    font-size: 40px;
+}
+
+main {
+    background-color: yellow;
+    border-color: yellow;
+}
+
+form input {
+    padding: 10px 25px;
+    width: 50%;
+}
+
+form label {
+    font-size: 25px;
+    display: block;
+    margin: 20px;
+
+}
+
+.nome {
+    text-align: center;
+    color: #FFFFFF;
+    margin:  35px;
+    padding-top: 10px;
+    padding-bottom: 40px;
+}
+
+.data {
+    text-align: center;
+    color: #FFFFFF;
+    margin:  35px;
+    padding-top: 10px;
+    padding-bottom: 40px;
+}
+
+.cpf {
+    text-align: center;
+    color: #FFFFFF;
+    margin:  35px;
+    padding-top: 10px;
+    padding-bottom: 40px;
+}
+
+.submit {
+    background-color: black;
+    text-align: center;
+    margin:  40px 40px;
+    padding: 40px;
+}
+
+footer {
+    text-align: center;
+    background: #000000;
+    padding: 50px 50px;
+}
+
+.copyright {
+    color: #FFFFFF;
+    font-size: 13px;
+    margin: 20px 0 0;
+}
